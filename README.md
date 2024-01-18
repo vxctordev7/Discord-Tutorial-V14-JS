@@ -24,4 +24,9 @@
 1) Após criar sua aplicação, iremos configurar para que funcione perfeitamente.
 2) No canto esquerdo da tela, você acesse o botão **Bot**
 <img src="ExemploApplicationCriação.png">
-3) Ative as **intents** do bot para que ele funcione. (Apenas desça um pouco na opção **Bot**
+
+3) Ative as **intents** do bot para que ele funcione. (Apenas desça um pouco na opção **Bot**)
+<img src="ExemploApplicationIntents.png">
+
+# **Seção 4: Gerando Link para adicionar no servidor.**
+1) Acesse o botão **OAuth2** e clique outra vez em **URL Generator**
