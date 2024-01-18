@@ -50,3 +50,30 @@
 6) Após criar e abrir ele, vamos para a próxima etapa.
 # **Seção 6: Criando o código fonte do bot.**
 1) Após abrir, você vai clicar para criar um arquivo e você digita: **index.js**
+<img src="ExemploApplicationFile.png">
+
+2) Depois de fazer isso, acesse o site [SourceBin - Code Base](https://pastebin.com/Aq0M0VUn)
+3) Copie e cole na **index.js** e vamos para proxima étapa.
+# **Seção 7: Baixando as pendencias necessárias.**
+1) Abra o terminal: **CTRL + '** dentor do Visual Studio Code.
+2) Digite as seguintes pendências: *(1 de cada vez)*
+```sh
+npm install discord.js@14.14.1
+npm install djs-template-gen
+npm init -y
+```
+3) Após fazer as instalações das pendências, execute o seguinte comando no terminal: *(1 de cada vez)*
+```sh
+clear
+node index.js
+```
+4) Pronto sua aplicação já está criada. Vamos para o próximo passo.
+# **Seção 8: Deixando ele online.**
+1) Para conseguir deixar ele iniciado no Discord, procure o arquivo **config.json**.
+2) Após achar o arquivo, vai ter a seguinte informação:
+```json
+{
+    "token": "seu token"
+}
+```
+3) Apague a mensagem **seu token** e cole o token quando fomos criar a aplicação.
