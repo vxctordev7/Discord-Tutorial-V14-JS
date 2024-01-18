@@ -5,6 +5,7 @@
 - Baixando/Instalando Recursos para produção da aplicação.
 - Criando aplicação no Portal do Desenvolvedor.
 - Configurando a Aplicação criada.
+- Gerando Link para adicionar no servidor.
 - Indo/Configurando para o Editor de Código.
 - Baixando as pendencias necessárias.
 - Deixando ele online.
@@ -17,4 +18,7 @@
 1) Abra seu navegador, e acesse o [Painel Developer Portal](https://discord.com/developers/applications)
 2) Após entrar no site, basta clicar em **New Application** ou **Nova Aplicação.**
 4) Quando clicar no botão, basta você digitar o nome do Seu bot.
-<img src="/Assents/ExampleApplication.png">
+<img src="/ExemploApplication.png">
+# **Seção 3: Configurando a Aplicação criada.**
+1) Após criar sua aplicação, iremos configurar para que funcione perfeitamente.
+2) No canto esquerdo da tela, você acesse o botão **Bot**
