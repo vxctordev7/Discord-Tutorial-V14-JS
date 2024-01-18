@@ -23,3 +23,5 @@
 # **Seção 3: Configurando a Aplicação criada.**
 1) Após criar sua aplicação, iremos configurar para que funcione perfeitamente.
 2) No canto esquerdo da tela, você acesse o botão **Bot**
+<img src="ExemploApplicationCriação.png">
+3) Ative as **intents** do bot para que ele funcione. (Apenas desça um pouco na opção **Bot**
