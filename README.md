@@ -67,6 +67,8 @@ npm init -y
 clear
 node index.js
 ```
+<img src="ExemploApplicationTerminal.png">
+
 4) Pronto sua aplicação já está criada. Vamos para o próximo passo.
 # **Seção 8: Deixando ele online.**
 1) Para conseguir deixar ele iniciado no Discord, procure o arquivo **config.json**.
@@ -77,3 +79,9 @@ node index.js
 }
 ```
 3) Apague a mensagem **seu token** e cole o token quando fomos criar a aplicação.
+4) Após isso, execute em seu terminal:
+```bash
+node .
+```
+5) Irá aparecer a seguinte mensagem:
+<img src="">
