@@ -19,6 +19,7 @@
 2) Após entrar no site, basta clicar em **New Application** ou **Nova Aplicação.**
 4) Quando clicar no botão, basta você digitar o nome do Seu bot.
 <img src="/ExemploApplication.png">
+
 # **Seção 3: Configurando a Aplicação criada.**
 1) Após criar sua aplicação, iremos configurar para que funcione perfeitamente.
 2) No canto esquerdo da tela, você acesse o botão **Bot**
