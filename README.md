@@ -11,7 +11,6 @@
 - Baixando as pendencias necessárias.
 - Deixando ele online.
 - Testando comando padrão.
-- Colocando alguns comandos.
 # **Seção 1: Baixando/Instalando Recursos para produção da aplicação.**
 1) Abra seu navegador padrão do seu aparelho e pesquise por [**Visual Studio Code**](https://code.visualstudio.com/download)
 2) Após instalar, vamos baixar o [NodeJS](https://nodejs.org/en/download/) *(Indicamos na LTS)*
@@ -43,7 +42,7 @@
 1) Após fizermos a aplicação, faça a instalação do Visual Studio Code normalmente.
 2) Depois de fazer a instalação do Visual Studio Code, faça a instalação do NodeJS.
 3) Após baixar tudo, você vai abrir o **Visual Studio Code** e esperar.
-4) Depois de entrar, clique em **File** e depois em Open Folder.
+4) Depois de entrar, clique em **File** e depois em **Open Folder**. *(Habilite o AutoSave)*
 <img src="ExemploApplicationVscode.png">
 
 5) Crie uma pasta para você iniciar a configurações do bot.
@@ -55,7 +54,7 @@
 2) Depois de fazer isso, acesse o site [SourceBin - Code Base](https://pastebin.com/Aq0M0VUn)
 3) Copie e cole na **index.js** e vamos para proxima étapa.
 # **Seção 7: Baixando as pendencias necessárias.**
-1) Abra o terminal: **CTRL + '** dentor do Visual Studio Code.
+1) Abra o terminal: **CTRL + '** dentro do Visual Studio Code.
 2) Digite as seguintes pendências: *(1 de cada vez)*
 ```sh
 npm install discord.js@14.14.1
@@ -84,4 +83,9 @@ node index.js
 node .
 ```
 5) Irá aparecer a seguinte mensagem:
-<img src="">
+<img src="ExemploApplicationIniciando.png">
+
+# **Seção 9: Testando comando padrão.**
+1) Na **Seção 4: Gerando Link para adicionar no servidor.** pedimos para adicionar em um servidor.
+2) Para ver os comandos dele, basta digitar **/** e automáticamente seu bot aparecerá lá.
+3) Comando padrão que vem:
