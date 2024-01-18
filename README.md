@@ -11,6 +11,7 @@
 - Baixando as pendencias necessárias.
 - Deixando ele online.
 - Testando comando padrão.
+- Alerts.
 # **Seção 1: Baixando/Instalando Recursos para produção da aplicação.**
 1) Abra seu navegador padrão do seu aparelho e pesquise por [**Visual Studio Code**](https://code.visualstudio.com/download)
 2) Após instalar, vamos baixar o [NodeJS](https://nodejs.org/en/download/) *(Indicamos na LTS)*
@@ -28,7 +29,7 @@
 3) Ative as **intents** do bot para que ele funcione. (Apenas desça um pouco na opção **Bot**)
 <img src="ExemploApplicationIntents.png">
 
-4) Depois, clique em **Reset Token** e copie o token gerado. *(Não compartilhe este token a ninguém!
+4) Depois, clique em **Reset Token** e copie o token gerado. *(Não compartilhe este token a ninguém!)*
 
 # **Seção 4: Gerando Link para adicionar no servidor.**
 1) Acesse o botão **OAuth2** e clique outra vez em **URL Generator**
@@ -51,7 +52,7 @@
 1) Após abrir, você vai clicar para criar um arquivo e você digita: **index.js**
 <img src="ExemploApplicationFile.png">
 
-2) Depois de fazer isso, acesse o site [SourceBin - Code Base](https://pastebin.com/Aq0M0VUn)
+2) Depois de fazer isso, acesse o site [Pastebin - Code Base](https://pastebin.com/Aq0M0VUn)
 3) Copie e cole na **index.js** e vamos para proxima étapa.
 # **Seção 7: Baixando as pendencias necessárias.**
 1) Abra o terminal: **CTRL + '** dentro do Visual Studio Code.
@@ -90,3 +91,9 @@ node .
 2) Para ver os comandos dele, basta digitar **/** e automáticamente seu bot aparecerá lá.
 3) Comando padrão que vem:
 <img src="ExemploApplicationCommand.png">
+
+# **ALERTS 🛑**
+- Para adicionar os comandos, basta abrir a pasta "ComandosSlash" e abra qualquer pasta.
+- Caso algum bug/erro acontecer, contate rápidamente para o Discord: **uprince7**
+
+`VictorDev | Dealer Codes 2024 ®`
