@@ -89,3 +89,4 @@ node .
 1) Na **Seção 4: Gerando Link para adicionar no servidor.** pedimos para adicionar em um servidor.
 2) Para ver os comandos dele, basta digitar **/** e automáticamente seu bot aparecerá lá.
 3) Comando padrão que vem:
+<img src="ExemploApplicationCommand.png">
