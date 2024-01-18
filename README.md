@@ -7,6 +7,7 @@
 - Configurando a Aplicação criada.
 - Gerando Link para adicionar no servidor.
 - Indo/Configurando para o Editor de Código.
+- Criando o bot.
 - Baixando as pendencias necessárias.
 - Deixando ele online.
 - Testando comando padrão.
@@ -28,5 +29,23 @@
 3) Ative as **intents** do bot para que ele funcione. (Apenas desça um pouco na opção **Bot**)
 <img src="ExemploApplicationIntents.png">
 
+4) Depois, clique em **Reset Token** e copie o token gerado. *(Não compartilhe este token a ninguém!
+
 # **Seção 4: Gerando Link para adicionar no servidor.**
 1) Acesse o botão **OAuth2** e clique outra vez em **URL Generator**
+2) Habilite as seguintes informações:
+<img src="ExemploApplicationURL.png">
+<img src="ExemploApplicationPERM.png">
+
+3) E depois desça mais um pouco e você vai encontrar **GENERATED URL** e vai copiar e colar em outra página.
+4) Depois de adicionado, vamos para a próxima seção.
+# **Seção 5: Indo/Configurando para o Editor de Código.**
+1) Após fizermos a aplicação, faça a instalação do Visual Studio Code normalmente.
+2) Depois de fazer a instalação do Visual Studio Code, faça a instalação do NodeJS.
+3) Após baixar tudo, você vai abrir o **Visual Studio Code** e esperar.
+4) Depois de entrar, clique em **File** e depois em Open Folder.
+<img src="ExemploApplicationVscode.png">
+
+5) Crie uma pasta para você iniciar a configurações do bot.
+6) Após criar e abrir ele, vamos para a próxima etapa.
+# **Seção 6: Criando o Bot
