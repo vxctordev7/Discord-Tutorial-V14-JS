@@ -7,7 +7,7 @@
 - Configurando a Aplicação criada.
 - Gerando Link para adicionar no servidor.
 - Indo/Configurando para o Editor de Código.
-- Criando o bot.
+- Criando o código fonte do bot.
 - Baixando as pendencias necessárias.
 - Deixando ele online.
 - Testando comando padrão.
@@ -48,4 +48,5 @@
 
 5) Crie uma pasta para você iniciar a configurações do bot.
 6) Após criar e abrir ele, vamos para a próxima etapa.
-# **Seção 6: Criando o Bot
+# **Seção 6: Criando o código fonte do bot.**
+1) Após abrir, você vai clicar para criar um arquivo e você digita: **index.js**
