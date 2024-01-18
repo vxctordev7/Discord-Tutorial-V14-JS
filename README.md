@@ -17,3 +17,4 @@
 1) Abra seu navegador, e acesse o [Painel Developer Portal](https://discord.com/developers/applications)
 2) Após entrar no site, basta clicar em **New Application** ou **Nova Aplicação.**
 4) Quando clicar no botão, basta você digitar o nome do Seu bot.
+<img src="/Assents/ExampleApplication.png">
