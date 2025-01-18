@@ -94,6 +94,5 @@ node .
 
 # **ALERTS 🛑**
 - Para adicionar os comandos, basta abrir a pasta "ComandosSlash" e abra qualquer pasta.
-- Caso algum bug/erro acontecer, contate rápidamente para o Discord: **uprince7**
 
 `VictorDev | Dealer Codes 2024 ®`
